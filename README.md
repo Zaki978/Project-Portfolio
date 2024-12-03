@@ -1,13 +1,14 @@
 # Project-Portfolio
 
-### Education 
-BSBA - Georgetown University
+## Education 
+- Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
 
-### Work Experience
+## Work Experience
 - FPCG
 
-### Projects 
-- SQL Project: European Soccer Analysis
+## Projects 
+### European Soccer Analysis Using SQL
+
 - TABLEAU
 - PYTHON Movie Ratings analysis
 - Python app dev
