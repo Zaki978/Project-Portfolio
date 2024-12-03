@@ -4,10 +4,10 @@
 BSBA - Georgetown University
 
 ### Work Experience
-
+- FPCG
 
 ### Projects 
-SQL 
-TABLEAU
-PYTHON Movie Ratings analysis
-Python app dev
+- SQL Project: European Soccer Analysis
+- TABLEAU
+- PYTHON Movie Ratings analysis
+- Python app dev
