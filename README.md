@@ -20,7 +20,7 @@ Analyzed European football data across five major leagues (Premier League, La Li
 
 ###Cooking Buddy Web Application Using Python
 
-[Github Project Link](https://github.com/Zaki978/recipefinder-final)
+[Github Project Link](https://github.com/Zaki978/recipefinder-final) | [Cooking Buddy Web App](https://cooking-buddy.onrender.com)
 
 Cooking Buddy is a flask-based web application I built with two classmates for one of my university classes. As college students with limited experience cooking, we decided to create an app to help students discover recipes based on ingredients they have available.  
 
