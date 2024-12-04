@@ -1,6 +1,6 @@
 # Project Portfolio
 
-#### Technical Skills: Python, SQL, Tableau, and Excel
+#### Technical Skills: SQL, Tableau, Python, Pandas and Excel
 
 
 ## Education 
