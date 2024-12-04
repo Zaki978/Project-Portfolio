@@ -9,7 +9,7 @@
 ## Projects 
 ### European Soccer Analysis Using SQL
 
-![European Soccer Leagues]
+![European Soccer Leagues](/assets/European Soccer Leagues.png)
 
 
 - TABLEAU
