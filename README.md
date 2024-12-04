@@ -16,6 +16,7 @@ Analyzed European football data across five major leagues (Premier League, La Li
 
 ![European Soccer Leagues](/assets/European Soccer Leagues.png)
 
+
 ### Cooking Buddy Web Application Using Python
 
 [Github Project Link](https://github.com/Zaki978/recipefinder-final) | [Cooking Buddy Web App](https://cooking-buddy.onrender.com)
@@ -28,6 +29,8 @@ Built with Python and Flask, the application leverages the Edamam Recipe RESTful
 
 ![Cooking Buddy Web Application](/assets/Cooking Buddy Photo.png)
 
+
 ### Data Visualization in Tableau
+
 
 ### IMBd Movie Ratings Analysis Using Python and Pandas
