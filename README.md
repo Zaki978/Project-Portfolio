@@ -9,6 +9,9 @@
 ## Projects 
 ### European Soccer Analysis Using SQL
 
+![European Soccer Leagues]
+
+
 - TABLEAU
 - PYTHON Movie Ratings analysis
 - Python app dev
