@@ -28,8 +28,8 @@ Users can input their available ingredients and apply filters for meal types (br
 
 Built with Python and Flask, the application leverages the Edamam Recipe RESTful API for comprehensive recipe data, while utilizing Bootstrap 5 for a responsive, user-friendly interface. The project demonstrates skills in environment variable management, API integration, and full-stack development. 
 
+![Cooking Buddy Web Application](/assets/Cooking Buddy Photo.png)
 
+###Data Visualization in Tableau
 
-- TABLEAU
-- PYTHON Movie Ratings analysis
-- Python app dev
+### IMBd Movie Ratings Analysis Using Python and Pandas
