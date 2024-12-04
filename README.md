@@ -18,9 +18,13 @@ Analyzed European football data across five major leagues (Premier League, La Li
 
 ![European Soccer Leagues](/assets/European Soccer Leagues.png)
 
-Cooking Buddy Web Application
+Cooking Buddy Web Application Using Python
 
-Built a python web application with two classmates
+Cooking Buddy is a flask-based web application I built with two classmates for one of my university classes. As college students with limited experience cooking, we decided to create an app to help students discover recipes based on ingredients they have available.  
+
+Users can input their available ingredients and apply filters for meal types (breakfast, lunch/dinner, snacks) and dish categories (appetizers, main courses, desserts), and receive personalized recipe suggestions complete with ingredient lists, nutritional information, and cooking instructions.
+
+Built with Python and Flask, the application leverages the Edamam Recipe RESTful API for comprehensive recipe data, while utilizing Bootstrap 5 for a responsive, user-friendly interface. The project demonstrates skills in environment variable management, API integration, and full-stack development. 
 
 
 
