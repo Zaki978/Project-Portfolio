@@ -5,9 +5,6 @@
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
 
-## Work Experience
-- FPCG
-
 ## Projects 
 ### European Soccer Analysis Using SQL
 [Github Project Link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project)
