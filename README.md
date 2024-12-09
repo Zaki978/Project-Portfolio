@@ -3,14 +3,26 @@ Welcome! This portfolio showcases my experience and skills in data analysis, vis
 
 #### Technical Skills: SQL, Tableau, Python, Pandas and Excel
 
+## Table of Contents
+1. [Education](#education)
+2. [Relevant Coursework](#relevant-coursework)
+3. [Projects](#projects)
+    - [European Soccer Analysis Using SQL](#european-soccer-analysis-using-sql) and Data Visualization in Tableau
+    - [IMBd Movie Ratings Analysis Using Python and Pandas](#imbd-movie-ratings-analysis-using-python-and-pandas)
+    - [Cooking Buddy Web Application Using Python](#cooking-buddy-web-application-using-python)
+
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
-- Classes include xyz
 
-## Table of Contents
-- [European Soccer Analysis Using SQL](#european-soccer-analysis-using-sql)
-- [Cooking Buddy Web Application](#cooking-buddy-web-application-using-python) and Data Visualization in Tableau
-- [IMDb Movie Ratings Analysis](#imdb-movie-ratings-analysis-using-python-and-pandas) and Data Visualization in Tableau
+### Relevant Coursework
+- Data Visualization in Tableau
+- Developing and Managing Databases in SQL
+- Introduction to Python
+- Management Business Application Development in Python
+  - **Final Project:** [Cooking Buddy App](https://cooking-buddy.onrender.com) (details below)
+- Computer Science I in C++
+- Modeling Analytics in Excel
+- Decision Support Systems in VBA
 
 ## Projects 
 ### European Soccer Analysis Using SQL
@@ -25,7 +37,7 @@ Analyzed European football data across five major leagues (Premier League, La Li
 
 [Github Project Link](https://github.com/Zaki978/recipefinder-final) | [Cooking Buddy Web App](https://cooking-buddy.onrender.com)
 
-Cooking Buddy is a flask-based web application I built with two classmates for one of my university classes. As college students with limited experience cooking, we decided to create an app to help students discover recipes based on ingredients they have available.  
+Cooking Buddy is a flask-based web application I built with two classmates as the final project for my Management Business Application Development in Python university class. As college students with limited experience cooking, we decided to create an app to help students discover recipes based on ingredients they have available.  
 
 Users can input their available ingredients and apply filters for meal types (breakfast, lunch/dinner, snacks) and dish categories (appetizers, main courses, desserts), and receive personalized recipe suggestions complete with ingredient lists, nutritional information, and cooking instructions.
 
