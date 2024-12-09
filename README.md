@@ -3,14 +3,6 @@ Welcome! This portfolio showcases my experience and skills in data analysis, vis
 
 #### Technical Skills: SQL, Tableau, Python, Pandas and Excel
 
-## Table of Contents
-1. [Education](#education)
-2. [Relevant Coursework](#relevant-coursework)
-3. [Projects](#projects)
-    - [European Soccer Analysis Using SQL](#european-soccer-analysis-using-sql) and Data Visualization in Tableau
-    - [IMBd Movie Ratings Analysis Using Python and Pandas](#imbd-movie-ratings-analysis-using-python-and-pandas)
-    - [Cooking Buddy Web Application Using Python](#cooking-buddy-web-application-using-python)
-
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
 
