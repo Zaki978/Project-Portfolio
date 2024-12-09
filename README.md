@@ -33,7 +33,7 @@ Cooking Buddy is a flask-based web application I built with two classmates as th
 
 Users can input their available ingredients and apply filters for meal types (breakfast, lunch/dinner, snacks) and dish categories (appetizers, main courses, desserts), and receive personalized recipe suggestions complete with ingredient lists, nutritional information, and cooking instructions.
 
-Built with Python and Flask, the application leverages the Edamam Recipe RESTful API for comprehensive recipe data, while utilizing Bootstrap 5 for a responsive, user-friendly interface. The project demonstrates skills in environment variable management, API integration, and full-stack development. 
+Built with Python and Flask, the application leverages the Edamam Recipe RESTful API for comprehensive recipe data, while utilizing Bootstrap 5 for a responsive, user-friendly interface. The project demonstrates skills in project management, API integration, and full-stack development. 
 
 ![Cooking Buddy Web Application](/assets/Cooking Buddy Photo.png)
 
