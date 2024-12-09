@@ -5,6 +5,7 @@ Welcome! This portfolio showcases my experience and skills in data analysis, vis
 
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
+- Classes include xyz
 
 ## Table of Contents
 - [European Soccer Analysis Using SQL](#european-soccer-analysis-using-sql)
