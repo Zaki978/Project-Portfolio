@@ -11,7 +11,7 @@ Welcome! This portfolio showcases my experience and skills in data analysis, vis
 - Developing and Managing Databases in SQL
 - Introduction to Python
 - Management Business Application Development in Python
-  - **Final Project:** [Cooking Buddy App](https://cooking-buddy.onrender.com) (details below)
+  - **Final Project:** Cooking Buddy App (details below)
 - Computer Science I in C++
 - Modeling Analytics in Excel
 - Decision Support Systems in VBA
