@@ -24,6 +24,14 @@ Analyzed European football data across five major leagues (Premier League, La Li
 
 ![European Soccer Leagues](/assets/European Soccer Leagues.png)
 
+### IMBd Movie Ratings Analysis in Python (Pandas and Matplotlib)
+
+[Github Project Repo](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis)
+
+
+### Data Visualization in Tableau
+
+[My Tableau Public visualizations](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes)
 
 ### Cooking Buddy Web Application Using Python
 
@@ -38,9 +46,5 @@ Built with Python and Flask, the application leverages the Edamam Recipe RESTful
 ![Cooking Buddy Web Application](/assets/Cooking Buddy Photo.png)
 
 
-### Data Visualization in Tableau
 
 
-### IMBd Movie Ratings Analysis in Python (Pandas and Matplotlib)
-
-[Github Project Repo](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis)
