@@ -41,4 +41,6 @@ Built with Python and Flask, the application leverages the Edamam Recipe RESTful
 ### Data Visualization in Tableau
 
 
-### IMBd Movie Ratings Analysis Using Python and Pandas
+### IMBd Movie Ratings Analysis in Python (Pandas and Matplotlib)
+
+[Github Project Repo](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis)
