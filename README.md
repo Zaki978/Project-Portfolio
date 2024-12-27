@@ -5,6 +5,7 @@ Welcome! I'm Zaki, a recent graduate from Georgetown University with a passion f
 
 #### Technical Skills: Excel, SQL, Tableau, and Python (Pandas, Matplotlib and Seaborn libraries)
 
+
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
 
