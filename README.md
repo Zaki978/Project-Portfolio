@@ -1,7 +1,7 @@
 # Project Portfolio
 Welcome! This portfolio showcases my experience and skills in data analysis, visualization and programming as outlined below. 
 
-#### Technical Skills: SQL, Tableau, Python (Pandas, Matplotlib and Seaborn) and Excel
+#### Technical Skills: SQL, Tableau, Python (Pandas, Matplotlib and Seaborn libraries) and Excel
 
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
