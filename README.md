@@ -28,6 +28,14 @@ Analyzed European football data across five major leagues (Premier League, La Li
 
 [Github Project Repo](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis)
 
+I conducted an in-depth analysis of IMDb movie ratings for films released over the past century (1920-2023). The primary objective was to uncover trends, patterns, and insights from the data, providing a comprehensive understanding of how movie ratings have evolved for movies released over time.
+
+The project involved extensive data cleaning, transformation, and manipulation processes which was implemented using Python and its powerful data manipulation library, pandas. I renamed columns for clarity, converted columns to appropriate data types, handled missing values, and filtered the data to include only movies with a minimum number of ratings. I also split the genres column into multiple rows to allow for genre-level analysis and created a new decade for further analysis.
+
+One of the key areas of exploration was the analysis of trends in movie ratings. I examined how movie ratings have changed over the decades and visualized this trend using matplotlib and seaborn, Python's primary libraries for data visualization. Another significant area of focus was genre analysis. I compared average ratings of movie genres over time and identified which genres have gained or lost popularity over time.
+In addition, I conducted a correlation analysis to understand how closely the ratings for each genre follow the overall trend in movie ratings. The results of this analysis provided valuable insights into the relationship between genre and movie ratings.
+
+The final cleaned and transformed data was exported to a CSV file for further analysis and visualization in Tableau. This allowed for more complex visualizations and a more interactive exploration of the data.
 
 ### Data Visualization in Tableau
 
