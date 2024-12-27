@@ -3,7 +3,7 @@
 ### About Me 
 Welcome! I'm Zaki, a recent graduate from Georgetown University with a passion for data and using data to drive informed decision-making. I am seeking a full-time role as a data analyst or in a position leveraging data analysis techniques. This portfolio highlights my experience and skills in data analysis, visualization, and programming, as detailed below.
 
-#### Technical Skills: SQL, Tableau, Python (Pandas, Matplotlib and Seaborn libraries) and Excel
+#### Technical Skills: Excel, SQL, Tableau, and Python (Pandas, Matplotlib and Seaborn libraries)
 
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
