@@ -28,14 +28,13 @@ Analyzed European football data across five major leagues (Premier League, La Li
 
 [Github Project Repo](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis)
 
-I conducted an in-depth analysis of IMDb movie ratings for films released over the past century (1920-2023). The primary objective was to uncover trends, patterns, and insights from the data, providing a comprehensive understanding of how movie ratings have evolved for movies released over time.
+I conducted an in-depth analysis of IMDb movie ratings for films released over the past century (1920-2023). The primary objective was to uncover trends, patterns, and insights from the data, providing a comprehensive understanding of how movie ratings compare across different release periods of time.
 
-The project involved extensive data cleaning, transformation, and manipulation processes which was implemented using Python and its powerful data manipulation library, pandas. I renamed columns for clarity, converted columns to appropriate data types, handled missing values, and filtered the data to include only movies with a minimum number of ratings. I also split the genres column into multiple rows to allow for genre-level analysis and created a new decade for further analysis.
+The project involved extensive data cleaning, transformation, and manipulation using **Python** and the **pandas library**. Key tasks included renaming columns for clarity, converting data to appropriate types, handling missing values, and filtering the dataset to focus on movies with at least 278 ratings (top 75th percentile) to ensure statistical robustness. I also split the genres column into multiple rows for genre-level analysis and created a new column grouping movies by decade for deeper insights.
 
-One of the key areas of exploration was the analysis of trends in movie ratings. I examined how movie ratings have changed over the decades and visualized this trend using matplotlib and seaborn, Python's primary libraries for data visualization. Another significant area of focus was genre analysis. I compared average ratings of movie genres over time and identified which genres have gained or lost popularity over time.
-In addition, I conducted a correlation analysis to understand how closely the ratings for each genre follow the overall trend in movie ratings. The results of this analysis provided valuable insights into the relationship between genre and movie ratings.
+One key focus was analyzing trends in movie ratings, examining changes over decades (or release years) and visualizing them with **matplotlib and seaborn**. Another significant focus was genre analysis, where I compared average genre ratings over time and identified which genres have gained or lost popularity. Additionally, a correlation analysis revealed how closely each genre's ratings align with overall rating trend, providing insights into the relationship between genres and movie ratings.
 
-The final cleaned and transformed data was exported to a CSV file for further analysis and visualization in Tableau. This allowed for more complex visualizations and a more interactive exploration of the data.
+The cleaned and transformed data was exported to a CSV file for advanced analysis and interactive visualization in Tableau, available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
 
 ![Movies Picture](assets/imdb-top-50 movies photo.png)
 
