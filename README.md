@@ -7,16 +7,15 @@ Welcome! I'm Zaki, a recent graduate from Georgetown University with a passion f
 
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
-
-### Relevant Coursework
-- Data Visualization in Tableau
-- Developing and Managing Databases in SQL
-- Introduction to Python
-- Management Business Application Development in Python
-  - **Final Project:** Cooking Buddy App (details below)
-- Computer Science I in C++
-- Modeling Analytics in Excel
-- Decision Support Systems in VBA
+- ### Relevant Coursework
+  - Data Visualization in Tableau
+  - Developing and Managing Databases in SQL
+  - Introduction to Python
+  - Management Business Application Development in Python
+    - **Final Project:** Cooking Buddy App (details below)
+  - Computer Science I in C++
+  - Modeling Analytics in Excel
+  - Decision Support Systems in VBA
 
 ## Projects 
 ### European Soccer Analysis Using SQL
