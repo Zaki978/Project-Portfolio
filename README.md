@@ -27,7 +27,7 @@ The project demonstrates proficiency in SQL including CTEs, subqueries, window f
 
 ![European Soccer Leagues](/assets/European Soccer Leagues.png)
 
-### IMBd Movie Ratings Analysis in Python (Pandas and Matplotlib)
+### IMBd Movie Ratings Analysis in Python (using Pandas and Matplotlib)
 
 [Github Project Repo](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis)
 
