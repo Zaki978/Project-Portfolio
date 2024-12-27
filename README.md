@@ -7,6 +7,7 @@ Welcome! I'm Zaki, a recent graduate from Georgetown University with a passion f
 
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
+
 ### Relevant Coursework
 - Data Visualization in Tableau
 - Developing and Managing Databases in SQL
