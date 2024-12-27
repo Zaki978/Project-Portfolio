@@ -37,6 +37,8 @@ In addition, I conducted a correlation analysis to understand how closely the ra
 
 The final cleaned and transformed data was exported to a CSV file for further analysis and visualization in Tableau. This allowed for more complex visualizations and a more interactive exploration of the data.
 
+![Movies Picture](assets/imdb-top-50 movies photo.png)
+
 ### Data Visualization in Tableau
 
 [My Tableau Public visualizations](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes)
