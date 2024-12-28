@@ -48,7 +48,7 @@ The cleaned and transformed data was exported to a CSV file for advanced analysi
 
 [My Tableau Public visualizations](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes)
 
-Created a total of 8 visualizations across my European Soccer Leagues Analysis and IMDb Movie Ratings Analysis data projects. This includes 2 stories in which I dive into detail regarding the results of my analysis and the main takeaways of my exploration. My dashboards are customizable, flexible and dynamic, allowing users to use filters with different settings for their own needs. My visualizations include stacked bar charts, dual axis charts, heatmaps, treemaps and historgrams, utilizing techniques such as calculated fields, LOD expressions and parameters. 
+Developed 8 visualizations as part of my European Soccer Leagues Analysis and IMDb Movie Ratings Analysis projects. Created 2 detailed stories highlighting key findings and insights. Designed 6 dynamic dashboards with customizable filters to cater to diverse user needs and granular level analysis. The visualizations include stacked bar charts, dual-axis charts, heatmaps, treemaps, and histograms, leveraging advanced Tableau techniques such as calculated fields, LOD expressions, and parameters.
 
 ### Cooking Buddy Web Application Using Python
 
