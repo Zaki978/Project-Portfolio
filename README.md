@@ -22,7 +22,7 @@ Welcome! I'm Zaki, a recent graduate from Georgetown University with a passion f
 
 ## Projects 
 ### European Soccer Leagues Analysis Using SQL
-[Github Project Link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project)
+[GitHub Project Link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project)
 
 Analyzed European soccer data across five major leagues (Premier League, La Liga, Bundesliga, Serie A, and Ligue 1) mainly using SQL. Through complex SQL queries, I extracted insights about team performance, player statistics, and league competitiveness from 2014 to 2020. Key analyses include analyzing home vs. away performance, tracking goal-scoring patterns, calculating team points distributions and evaluating league competitiveness through points gaps. 
 
@@ -32,7 +32,7 @@ The project demonstrates proficiency in SQL including CTEs, subqueries, window f
 
 ### IMDb Movie Ratings Analysis in Python (using Pandas and Matplotlib)
 
-[Github Project Link](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis)
+[GitHub Project Link](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis)
 
 I conducted an in-depth analysis of IMDb movie ratings for films released over the past century (1920-2023). The primary objective was to uncover trends, patterns, and insights from the data, providing a comprehensive understanding of how movie ratings compare across different release periods of time.
 
@@ -52,7 +52,7 @@ Developed 8 visualizations as part of my European Soccer Leagues Analysis and IM
 
 ### Cooking Buddy Web Application Using Python
 
-[Github Project Link](https://github.com/Zaki978/recipefinder-final) | [Cooking Buddy Web App](https://cooking-buddy.onrender.com)
+[GitHub Project Link](https://github.com/Zaki978/recipefinder-final) | [Cooking Buddy Web App](https://cooking-buddy.onrender.com)
 
 Cooking Buddy is a flask-based web application I built with two classmates as the final project for my Management Business Application Development in Python university class. As college students with limited experience cooking, we decided to create an app to help students discover recipes based on ingredients they have available.  
 
