@@ -22,7 +22,7 @@ Welcome! I'm Zaki, a recent graduate from Georgetown University with a passion f
 
 ## Projects 
 ### European Soccer Leagues Analysis Using SQL
-[GitHub Project Link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project)
+[GitHub Project Link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/README.md)
 
 Analyzed European soccer data across five major leagues (Premier League, La Liga, Bundesliga, Serie A, and Ligue 1) mainly using SQL. Through complex SQL queries, I extracted insights about team performance, player statistics, and league competitiveness from 2014 to 2020. Key analyses include analyzing home vs. away performance, tracking goal-scoring patterns, calculating team points distributions and evaluating league competitiveness through points gaps. 
 
