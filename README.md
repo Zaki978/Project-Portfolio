@@ -32,7 +32,7 @@ The project demonstrates proficiency in SQL including CTEs, subqueries, window f
 
 ### IMDb Movie Ratings Analysis in Python (using Pandas and Matplotlib)
 
-[GitHub Project Link](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis)
+[GitHub Project Link](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis/blob/main/README.md)
 
 I conducted an in-depth analysis of IMDb movie ratings for films released over the past century (1920-2023). The primary objective was to uncover trends, patterns, and insights from the data, providing a comprehensive understanding of how movie ratings compare across different release periods of time.
 
