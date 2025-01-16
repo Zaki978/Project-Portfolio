@@ -38,7 +38,7 @@ The project involved extensive data cleaning, transformation, and manipulation u
 
 The project centered on analyzing trends in movie ratings over decades, visualizing the data with **matplotlib and seaborn** initially, and then in **Tableau** for more advanced analysis. It also included genre analysis, comparing average genre ratings over time to identify shifts in popularity. Correlation analysis further revealed how closely each genre's ratings align with the overall trend, offering insights into their relationship with movie ratings.
 
-The cleaned and transformed data was exported to a CSV file for advanced analysis and interactive visualization in Tableau, available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
+Interactive Tableau visualizations are available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
 
 ![Movies Picture](assets/imdb-top-50 movies photo.png)
 
