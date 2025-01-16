@@ -20,7 +20,7 @@ Welcome! I'm Zaki, a recent Georgetown University graduate passionate about leve
 
 ## Projects 
 ### European Soccer Leagues Analysis Using SQL
-[GitHub Project Link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/README.md)
+[GitHub Repo Link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/README.md)
 
 Analyzed European soccer data across five major leagues (Premier League, La Liga, Bundesliga, Serie A, and Ligue 1) using SQL. Through complex queries, I extracted insights about team performance, player statistics, and league competitiveness from 2014 to 2020. Key analyses include analyzing home vs. away performance, tracking goal-scoring patterns, calculating team points distributions and evaluating league competitiveness through points gaps. 
 
@@ -30,7 +30,7 @@ The project demonstrates proficiency in SQL, including CTEs, subqueries, window 
 
 ### IMDb Movie Ratings Analysis in Python (using Pandas and Matplotlib)
 
-[GitHub Project Link](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis/blob/main/README.md)
+[GitHub Repo Link](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis/blob/main/README.md)
 
 I conducted an in-depth analysis of IMDb movie ratings for films released over the past century (1920-2023). The objective was to uncover trends and patterns in movie ratings over time, with a particular focus on how ratings vary across genres.
 
@@ -44,13 +44,13 @@ Interactive Tableau visualizations are available on my [Tableau Public Profile](
 
 ### Data Visualization in Tableau
 
-[My Tableau Public visualizations](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes)
+[My Tableau Public Visualizations](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes)
 
 Developed 8 visualizations as part of my European Soccer Leagues Analysis and IMDb Movie Ratings Analysis projects. Created 2 detailed stories highlighting key findings and insights. Designed 6 dynamic dashboards with customizable filters to cater to diverse user needs and granular level analysis. The visualizations include stacked bar charts, dual-axis charts, heatmaps, treemaps, and histograms, leveraging advanced Tableau techniques such as calculated fields, LOD expressions, and parameters.
 
 ### Cooking Buddy Web Application Using Python
 
-[GitHub Project Link](https://github.com/Zaki978/recipefinder-final) | [Cooking Buddy Web App](https://cooking-buddy.onrender.com)
+[GitHub Repo Link](https://github.com/Zaki978/recipefinder-final) | [Cooking Buddy Web App](https://cooking-buddy.onrender.com)
 
 Cooking Buddy is a flask-based web application I built with two classmates as the final project for my Management Business Application Development in Python university class. As college students with limited experience cooking, we decided to create an app to help students discover recipes based on ingredients they have available.  
 
