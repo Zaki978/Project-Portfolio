@@ -32,11 +32,11 @@ The project demonstrates proficiency in SQL, including CTEs, subqueries, window 
 
 [GitHub Project Link](https://github.com/Zaki978/IMDb-Movie-Ratings-Analysis/blob/main/README.md)
 
-I conducted an in-depth analysis of IMDb movie ratings for films released over the past century (1920-2023). The primary objective was to uncover trends, patterns, and insights from the data, providing a comprehensive understanding of how movie ratings compare across different release periods of time.
+I conducted an in-depth analysis of IMDb movie ratings for films released over the past century (1920-2023). The objective was to uncover trends and patterns in movie ratings over time, with a particular focus on how ratings vary across genres.
 
 The project involved extensive data cleaning, transformation, and manipulation using **Python** and the **pandas library**. Key tasks included renaming columns for clarity, converting data to appropriate types, handling missing values, and filtering the dataset to focus on movies exclusively and those with at least 278 ratings (top 75th percentile) to ensure statistical robustness. I also split the genres column into multiple rows for genre-level analysis and created a new column grouping movies by decade for deeper insights.
 
-One key focus was analyzing trends in movie ratings, examining changes over decades movies were produced and visualizing them initially with **matplotlib and seaborn** and then in Tableau for more advanced analysis. Another significant focus was genre analysis, where I compared average genre ratings over time and identified which genres have gained or lost popularity. Additionally, a correlation analysis revealed how closely each genre's ratings align with overall rating trend, providing insights into the relationship between genres and movie ratings.
+The project centered on analyzing trends in movie ratings over decades, visualizing the data with **matplotlib and seaborn** initially, and then in **Tableau** for more advanced analysis. It also included genre analysis, comparing average genre ratings over time to identify shifts in popularity. Correlation analysis further revealed how closely each genre's ratings align with the overall trend, offering insights into their relationship with movie ratings.
 
 The cleaned and transformed data was exported to a CSV file for advanced analysis and interactive visualization in Tableau, available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
 
