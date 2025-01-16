@@ -1,10 +1,9 @@
 # Project Portfolio
 
 ### About Me 
-Welcome! I'm Zaki, a recent graduate from Georgetown University with a passion for data and using data to drive informed decision-making. I am seeking a full-time role as a data analyst or in a position leveraging data analysis techniques. This portfolio highlights my experience and skills in data analysis, visualization, and programming, as detailed below.
+Welcome! I'm Zaki, a recent Georgetown University graduate passionate about leveraging data for insights, problem-solving and driving informed decisions. I’m seeking a full-time role as a data analyst in New York City. This portfolio showcases my experience and skills in data analysis, visualization, and programming.
 
 #### Technical Skills: Excel, SQL, Tableau, Python (Pandas and Matplotlib libraries) and APIs
-
 
 ## Education 
 - Bachelor of Science in Business Administration - Georgetown University (_Aug 2020 - May 2024_)
@@ -13,20 +12,19 @@ Welcome! I'm Zaki, a recent graduate from Georgetown University with a passion f
 - Data Visualization in Tableau
 - Developing and Managing Databases in SQL
 - Introduction to Python
-- Management Business Application Development in Python
-  - **Final Project:** Cooking Buddy App (details below)
 - Computer Science I in C++
 - Modeling Analytics in Excel
-- Decision Support Systems in VBA
-
+- Decision Support Systems in VBA 
+- Management Business Application Development in Python
+  - **Final Project:** Cooking Buddy App (details below)
 
 ## Projects 
 ### European Soccer Leagues Analysis Using SQL
 [GitHub Project Link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/README.md)
 
-Analyzed European soccer data across five major leagues (Premier League, La Liga, Bundesliga, Serie A, and Ligue 1) mainly using SQL. Through complex SQL queries, I extracted insights about team performance, player statistics, and league competitiveness from 2014 to 2020. Key analyses include analyzing home vs. away performance, tracking goal-scoring patterns, calculating team points distributions and evaluating league competitiveness through points gaps. 
+Analyzed European soccer data across five major leagues (Premier League, La Liga, Bundesliga, Serie A, and Ligue 1) using SQL. Through complex queries, I extracted insights about team performance, player statistics, and league competitiveness from 2014 to 2020. Key analyses include analyzing home vs. away performance, tracking goal-scoring patterns, calculating team points distributions and evaluating league competitiveness through points gaps. 
 
-The project demonstrates proficiency in SQL including CTEs, subqueries, window functions, set operations and complex joins. I handled the full project lifecycle and infrastructure: from SQLite database setup and CSV data ingestion, to database management and export for data visualization in Tableau, available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
+The project demonstrates proficiency in SQL, including CTEs, subqueries, window functions, set operations and complex joins. I handled the full project lifecycle and infrastructure: from SQLite database setup and CSV data ingestion, to database management and export for data visualization in Tableau, available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
 
 ![European Soccer Leagues](/assets/European Soccer Leagues.png)
 
