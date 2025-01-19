@@ -12,9 +12,7 @@ Welcome! I'm Zaki, a recent Georgetown University graduate passionate about leve
 - Data Visualization in Tableau
 - Developing and Managing Databases in SQL
 - Introduction to Python
-- Computer Science I in C++
 - Modeling Analytics in Excel
-- Decision Support Systems in VBA 
 - Management Business Application Development in Python
   - **Final Project:** Cooking Buddy App (details below)
 
