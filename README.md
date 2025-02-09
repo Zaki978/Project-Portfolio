@@ -1,7 +1,7 @@
 # Project Portfolio
 
 ### About Me 
-Welcome! I'm Zaki, a recent Georgetown University graduate passionate about leveraging data for insights, problem-solving and driving informed decisions. I’m seeking a full-time role as a data analyst in New York City. This portfolio showcases my experience and skills in data analysis, visualization, and programming.
+Welcome! I'm Zaki, a recent Georgetown University graduate passionate about leveraging data for insights, problem-solving and driving informed decisions. I’m seeking a full-time role as a data analyst or data-related role in New York City. This portfolio showcases my experience and skills in data analysis, visualization, and programming.
 
 #### Technical Skills: Excel, SQL, Tableau, Python (Pandas and Matplotlib libraries) and APIs
 
